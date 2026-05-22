@@ -60,7 +60,7 @@ Profissional em transição de carreira para Desenvolvimento Frontend, com sóli
 ## 🌍 Idiomas e Certificações
 
 - **Inglês:** Nível Intermediário (Foco em leitura técnica).
-- **Desenvolvimento Web:** +30 certificações técnicas via plataforma DIO, totalizando mais de 200 horas de estudo prático.
+- **Desenvolvimento Web:** +30 certificações técnicas via plataforma DIO, totalizando mais de 200 horas de estudos práticos.
 
 ---
 
