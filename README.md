@@ -67,7 +67,7 @@ Profissional com 14 anos de atuação como maquinista em ambiente de missão cr�
 
 ## 🎓 Formação Acadêmica
 
-- **Bacharelado em Engenharia de Computação** (06/2024 – 06/2029)
+- **Bacharelado em Engenharia de Computação** (06/2024 – Conclusão prevista para 06/2029)
   - UNIVESP - Universidade Virtual do Estado de São Paulo
 - **Formação Técnica (SENAI São Caetano do Sul):**
   - Técnico em Desenvolvimento de Sistemas (Conclusão prevista para 12/2027)
