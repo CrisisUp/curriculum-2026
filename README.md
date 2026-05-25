@@ -70,8 +70,8 @@ Profissional com 14 anos de atuação como maquinista em ambiente de missão cr�
 - **Bacharelado em Engenharia de Computação** (06/2024 – Conclusão prevista para 06/2029)
   - UNIVESP - Universidade Virtual do Estado de São Paulo
 - **Formação Técnica (SENAI São Caetano do Sul):**
-  - Técnico em Desenvolvimento de Sistemas (Conclusão prevista para 12/2027)
-  - Técnico de Redes (Conclusão prevista para 12/2026)
+  - Técnico em Desenvolvimento de Sistemas (04/2026 - Conclusão prevista para 12/2027)
+  - Técnico de Redes (02/2025 - Conclusão prevista para 12/2026)
 
 ---
 
